@@ -1,3 +1,29 @@
+**This App was created with React.js.**
+
+Here anyone can search for a image gallery with some keyword and I've used uplash API to get some images corresponding to the search value and show them in a gallery format. 
+A visual representation of the App shown below:
+
+![Image_Searching_Gallery](https://user-images.githubusercontent.com/38896577/95843538-a1127280-0d69-11eb-8a4a-e7df9a177e72.gif)
+
+
+To use the App, Please visit the below link:
+
+[Click me to see the App in action!](https://omorfarukrakib.github.io/Image-Searching-Gallery/ "Image-Searching-Gallery")
+
+
+
+
+## **To know more about react, and stuff, read the below document**
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
