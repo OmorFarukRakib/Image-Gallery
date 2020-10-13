@@ -1,6 +1,6 @@
 **This App was created with React.js.**
 
-Here anyone can search for a image gallery with some keyword and I've used uplash API to get some images corresponding to the search value and show them in a gallery format. 
+Here anyone can search for an image gallery with some keyword and I've used Unsplash API to get some images corresponding to the search value and show them in a gallery format. 
 A visual representation of the App shown below:
 
 ![Image_Searching_Gallery](https://user-images.githubusercontent.com/38896577/95843538-a1127280-0d69-11eb-8a4a-e7df9a177e72.gif)
